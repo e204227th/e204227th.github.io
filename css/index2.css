@@ -1,0 +1,115 @@
+body{
+    background-image: 
+        url(..//images/hosi.jpg);
+}
+
+div.title{
+    width: 1000px;
+    height: 60px;
+    background-image: url(../images/yuki.jpg);
+    font-size: 45px;
+    font-family: "impact";
+    color:chartreuse;
+    margin-bottom: 20px;
+    padding: 0px 30px;
+}
+
+
+span.menuitem{
+    vertical-align: top;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+    background-image: url(../images/sora.jpg);
+    font-size: 15px;
+    color: chartreuse;
+    margin: 0px 20px 0px 0px;
+    text-align: center;
+    padding:15
+}
+span.menuitem1{
+    vertical-align: top;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+    background-image: url(../images/sora.jpg);
+    font-size: 15px;
+    color: black;
+    margin: 0px 20px 0px 0px;
+    text-align: center;
+    padding:15
+}
+div.image{
+    vertical-align: top;
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+}
+div.image2{
+    vertical-align: top;
+    display: inline-block;
+    width: 0px;
+    height: 300px;
+    font-size: 15px;
+    margin: 10px 450px 10px 20px;
+}
+div.image3{
+    vertical-align: top;
+    display: inline-block;
+    width: 0px;
+    height: 100px;
+    font-size: 15px;
+    margin: 10px 10px 10px 20px;
+}
+div.image4{
+    vertical-align: top;
+    display: inline-block;
+    width: 0px;
+    height: 100px;
+    margin: 10px 10px 20px 20px;
+}
+div.Sentence{
+    display:inline-block;
+    width: 1000px;
+    height: 300px;
+    background-image: url(../images/yuki.jpg);
+    margin-top: auto;
+    padding:15px;
+    font-size: 17px;
+    color: chartreuse;
+}
+div.kimetu{
+    text-align: top;
+}
+
+div.footer{
+    width: 1030px;
+    height: 30px;
+    background-image: url(../images/hosi.jpg);
+    font-size: 20px;
+    text-align: right;
+    color:chartreuse;
+}
+
+div.menu{
+    font-size: 0px;
+    width: 1000px;
+}
+div.title2{
+    display: inline-block;
+    width: 220px;
+    height: 40px;
+    font-size: 30px;
+    color: red;
+    background-image: url(../images/hosi.jpg);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+
+div.rap{
+    width : 1000px;
+    margin : 0px auto;
+}
