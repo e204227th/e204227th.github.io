@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.c{
+   color:White;
+    background-color: black; 
+}
+.d{
+    color:White;
+    background-color: red;
+}
+h2{
+    text-align: center;
+}
+.a{
+    color:mediumspringgreen;
+    background-color: mediumseagreen;
+    
+}
+.b{
+    color:skyblue;
+    background-color: yellow;
+}
+
+body{
+    background-image: url(../images/4363b1fb99ef9b8723ffcadf1147dbe3.png);
+    
+}
